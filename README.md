@@ -8,9 +8,9 @@
 ## 项目简介
 本文件包为《Scratch少儿趣味编程》书籍配套案例归档，所有工程均依照书中示例自行制作完成。
 完整收录多代 Scratch 适配版本：
-- Scratch 1.4 原版工程（.sb）<br>
-- Scratch 2.0 适配工程（.sb2）<br>
-- Scratch 3.0 新版适配工程（.sb3）<br>
+- Scratch 1.4 原版工程（.sb）  
+- Scratch 2.0 适配工程（.sb2）  
+- Scratch 3.0 新版适配工程（.sb3）  
 
 ## 目录结构
 ```plaintext
