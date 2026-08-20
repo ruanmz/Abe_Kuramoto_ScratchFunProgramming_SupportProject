@@ -13,13 +13,13 @@
 - Scratch 3.0 新版适配工程（.sb3）<br>
 
 ## 目录结构
-````plaintext
+```plaintext
 ├── Scratch少儿趣味编程 - 配套作品（1.4 案例）
 ├── Scratch少儿趣味编程 2 - 配套作品（2.0 适配）
 ├── Scratch少儿趣味编程 2 (第二版) - 配套作品（3.0 适配）
 ├── README.md
 └── LICENSE
-````
+```
 
 ---
 
